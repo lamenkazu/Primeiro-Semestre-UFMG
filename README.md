@@ -13,16 +13,16 @@ Aula 6 -
 
 Aula 7 - 
 
-Aula 8 - 
+Aula 8 - Subrotinas e Funções
 
-Aula 9 - 
+Aula 9 - Vetores
 
-Aula 10 - 
+Aula 10 - Cadeias de Caracteres
 
-Aula 11 - 
+Aula 11 - Matrizes
 
-Aula 12 - 
+Aula 12 - Alocação Dinâmica
 
-Aula 13 -
+Aula 13 - Structs
 
-Aula 14 - 
+Aula 14 - Arquivos
